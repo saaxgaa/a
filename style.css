@@ -17,10 +17,10 @@ h3 {
 .container {
   width: 600px;
   margin: auto;
-  cursor: url(../img/palu1.png), auto;
+  cursor: url(palu1.png), auto;
 }
 .container:active {
-  cursor: url(../img/palu2.png), auto;
+  cursor: url(palu2.png), auto;
 }
 .tanah {
   width: 200px;
@@ -34,7 +34,7 @@ h3 {
   display: block;
   width: 200px;
   height: 100px;
-  background: url(../img/tanah.png) bottom center no-repeat ;
+  background: url(tanah.png) bottom center no-repeat ;
   background-size: 80%;
   position: absolute;
   bottom: -25px;
@@ -43,7 +43,7 @@ h3 {
 .tikus {
   width: 100%;
   height: 100%;
-  background: url(../img/tikus.png) bottom center no-repeat;
+  background: url(tikus.png) bottom center no-repeat;
   background-size: 80%;
   position: absolute;
   top: 100px;
